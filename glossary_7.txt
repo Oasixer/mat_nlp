@@ -1,0 +1,7 @@
+debye temperature 
+fourier’s law 
+heat capacity 
+linear coefficient of thermal expansion 
+specific heat 
+thermal conductivity 
+thermal shock 

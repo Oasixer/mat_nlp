@@ -1,0 +1,31 @@
+brittle fracture 
+charpy test 
+complex failure 
+corrosion-fatigue failure 
+creep and stress-rupture  failures 
+ductile fracture 
+ductile-to-brittle transition  temperature 
+failure analysis 
+failure prevention 
+fast fracture 
+fatigue 
+fatigue curve 
+fatigue failure 
+fatigue strength 
+flaw-induced fracture 
+fracture mechanics 
+fracture toughness 
+general yielding 
+hydrogen embrittlement 
+impact energy 
+izod test 
+liquid-erosion failure 
+liquid-metal embrittlement 
+nondestructive testing 
+static fatigue 
+stress-corrosion cracking 
+stress intensity factor 
+transformation toughening 
+ultrasonic testing 
+wear failure 
+x-radiography 

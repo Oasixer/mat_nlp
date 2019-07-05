@@ -1,0 +1,59 @@
+annealing point 
+brinell hardness number 
+brittle fracture 
+chemically strengthened glass 
+cold working 
+creep 
+creep curve 
+critical resolved shear stress 
+critical shear stress 
+cross-linking 
+dislocation climb 
+ductility 
+dynamic modulus of elasticity 
+elastic deformation 
+elastomer 
+engineering strain 
+engineering stress 
+flexural modulus 
+flexural strength 
+gage length 
+glass transition temperature 
+griffith crack model 
+hooke’s law 
+hysteresis 
+lower yield point 
+melting range 
+modulus of elasticity 
+modulus of elasticity in bending 
+modulus of rigidity 
+modulus of rupture 
+plastic deformation 
+poisson’s ratio 
+relaxation time 
+residual stress 
+resolved shear stress 
+rockwell hardness 
+shear modulus 
+shear strain 
+shear stress 
+slip system 
+softening point 
+softening temperature 
+solution hardening 
+specific strength 
+strain hardening 
+strain-hardening exponent 
+strength-to-weight ratio 
+stress relaxation 
+tempered glass 
+tensile strength 
+toughness 
+upper yield point 
+viscoelastic deformation 
+viscosity 
+viscous deformation 
+working range 
+yield point 
+yield strength 
+young’s modulus 

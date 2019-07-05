@@ -1,0 +1,56 @@
+atomic packing factor 
+bravais lattice 
+crystal system 
+family of directions 
+family of planes 
+ionic packing factor 
+lattice constant 
+lattice direction 
+lattice parameter 
+lattice plane 
+lattice point 
+lattice position 
+lattice translation 
+linear density 
+miller–bravais indices 
+miller indices 
+planar density 
+point lattice 
+iii–v compounds 
+ii–vi compounds 
+unit cell 
+structures
+body-centered cubic 
+buckminsterfullerene 
+buckyball 
+buckytube 
+carbon nanotube 
+cesium chloride 
+corundum 
+cristobalite 
+cubic close packed 
+diamond cubic 
+face-centered cubic 
+fluorite 
+fullerene 
+graphene 
+hexagonal close packed 
+kaolinite 
+polyethylene 
+silica 
+silicon 
+sodium chloride 
+zinc blende 
+diffraction
+bragg angle 
+bragg equation 
+bragg’s law 
+diffraction 
+diffraction angle 
+diffractometer 
+interplanar spacing 
+nonprimitive unit cells 
+primitive unit cells 
+reflection rules 
+x-radiation 
+x-ray diffraction 

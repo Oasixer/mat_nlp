@@ -1,0 +1,52 @@
+anion 
+atomic mass 
+atomic mass unit 
+atomic number 
+atomic radius 
+avogadro’s number 
+bond angle 
+bond length 
+bonding energy 
+bonding force 
+cation 
+coordination number 
+coulombic attraction 
+covalent bond 
+delocalized electron 
+dipole 
+dipole moment 
+double bond 
+electron 
+electron density 
+electron orbital 
+electronegativity 
+energy level 
+energy trough 
+energy well 
+gram-​atom 
+group 
+hard sphere 
+hybridization 
+hydrogen bridge 
+ion 
+ionic bond 
+ionic radius 
+isotope 
+melting point 
+metallic bond 
+mole 
+neutron 
+nucleus 
+orbital shell 
+periodic table 
+polar molecule 
+polymeric molecule 
+primary bond 
+proton 
+radius ratio 
+repulsive force 
+secondary bond 
+soft sphere 
+valence 
+valence electron 
+van der waals bond 

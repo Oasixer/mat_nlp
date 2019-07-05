@@ -1,0 +1,24 @@
+activation energy 
+arrhenius equation 
+arrhenius plot 
+bulk diffusion 
+carburization 
+concentration gradient 
+diffusion 
+diffusion coefficient 
+diffusivity 
+fick’s first law 
+fick’s second law 
+gaussian error function 
+grain-boundary diffusion 
+maxwell–boltzmann distribution 
+preexponential constant 
+random-walk 
+rate-limiting step 
+self-diffusion 
+steady-state diffusion 
+surface diffusion 
+thermal activation 
+thermal vibration 
+vacancy migration 
+volume diffusion 

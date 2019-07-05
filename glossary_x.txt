@@ -1,0 +1,59 @@
+abrasive wear 
+adhesive wear 
+aerosol 
+anode 
+anodic reaction 
+anodized aluminum 
+aqueous corrosion 
+Ashby chart 
+biological material 
+biomaterial 
+capacitive system 
+cathode 
+cathodic reaction 
+concentration cell 
+corrosion 
+corrosion fatigue 
+corrosive wear 
+design for the environment 
+design parameter 
+design selection 
+electrochemical cell 
+electromotive force series 
+environmental impact assessment 
+galvanic cell 
+galvanic corrosion 
+galvanic protection 
+galvanic series 
+galvanized steel 
+gaseous reduction 
+green engineering 
+half cell 
+half-​cell reaction 
+hydrogen embrittlement 
+impressed voltage 
+inhibitor 
+ionic concentration cell 
+life-​cycle assessment 
+light-​emitting diode 
+materials selection 
+mechanical stress 
+organic light-​emitting diode 
+oxidation 
+oxygen concentration cell 
+Pilling–Bedworth ratio 
+PM2.5 
+PM10 
+porcelain enamel 
+prosthesis 
+protective coating 
+radiation 
+recycling 
+rusting 
+sacrificial anode 
+spalling 
+spectral width 
+stress cell 
+stress-​corrosion cracking 
+surface-​fatigue wear 
+ultrafine particle 
